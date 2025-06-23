@@ -14,13 +14,6 @@ This project is a **privacy protection tool** that uses your laptop's webcam to 
 
 ---
 
-## 📸 Demo
-
-https://user-images.githubusercontent.com/your-video-demo-link.mp4  
-*(Optional: Add a demo video or GIF showcasing intruder detection.)*
-
----
-
 ## 🛠️ Tech Stack
 
 - `Python`
